@@ -1,0 +1,39 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  
+}
+
+.galery {
+    width: 870px;
+    height: 950px;
+    overflow: hidden;
+    align-items: center ;
+    margin-left: 209px;
+    
+}
+
+.galery .fotos {
+    width: 500%;
+    animation-name: animação;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+
+}
+
+.galery .fotos .img {
+  width: 19.9%;
+}
+
+.main {
+    padding-top: 5%;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    color: aquamarine;
+}
+
